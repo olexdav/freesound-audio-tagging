@@ -1,0 +1,10 @@
+# Data
+data/unprepared/
+data/prepared/
+*.npy
+
+# Jupyter Notebooks
+*.ipynb_checkpoints/
+
+# Cache
+*/__pycache__
